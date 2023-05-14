@@ -1,1 +1,1 @@
-# selenium-learning
+# Проект со знакомством с Selenium и разбором XPath 
